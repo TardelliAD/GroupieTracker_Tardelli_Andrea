@@ -1,2 +1,9 @@
-°Lundi 06 mars 14H: début du projet
--Objectif du jour trouver une API et apprendre à l'utiliser. 
+°Lundi 06 mars 14H: début du projet {
+    -Objectif de la seance trouver une API et apprendre à l'utiliser. 
+        conclusion:
+            -maitrise de l'API Valorant
+            -je commence à comprendre le fonctionnement de la fonction get et du json converti en struct golang 
+}
+°Mardi 07 mars 8h30: commencement de la seance {
+   -Objectif de la seance afficher des informations de l'API
+}
