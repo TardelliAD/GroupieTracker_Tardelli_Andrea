@@ -6,4 +6,6 @@
 }
 °Mardi 07 mars 8h30: commencement de la seance {
    -Objectif de la seance afficher des informations de l'API
+        conclusion:
+            -renseignement sur la maitrise et l'affichage de requetes  
 }
